@@ -1,0 +1,57 @@
+# REZTEK DIGITAL - WEBSITE COPY & CONTENT
+
+## 1. NAVIGATION (THE DASHBOARD)
+- Links: The Lab (Services), The Gallery (Portfolio), The Mindset (Philosophy), The Journal (Insights)
+- Action: [Say Hello]
+
+## 2. HERO SECTION (THE FRONT PORCH)
+- Tagline: Built to last. Built to run.
+- Main Heading: REZTEK DIGITAL
+- Subheading: We build high-performance websites for small businesses that give a damn. No corporate jargon, no bloated templates—just clean code, retro aesthetics, and digital tools that actually work.
+- CTA: [Start a Project]
+
+## 3. THE SERVICES (WHAT WE DO)
+### Web Development
+- The Single-Sided (One-Pager): The Digital Business Card. Fast, punchy, and mobile-ready. Perfect for the local shop that needs a solid home base without the fluff.
+- The Full Album (Standard Site): For the growing brand. 5-15 pages of custom-tailored digital real estate. SEO-baked, user-friendly, and built on a foundation that won't crack.
+- The General Store (E-com): Sell your goods. A reliable, secure shopfront that handles the heavy lifting so you can focus on making your products.
+
+### Search & Local Love
+- Get Found (SEO): We skip the "magic tricks" and focus on the fundamentals: making sure your neighbors (and Google) can actually find you.
+- The Map Maker (GBP): We’ll polish your Google Business Profile until it shines, making you the obvious choice on the local map.
+
+### Keeping the Lights On
+- The Care Plan (Maintenance): Hosting, backups, and security. We keep the engine tuned so you don't have to learn what a "server" is.
+
+## 4. PORTFOLIO (THE GALLERY)
+- Section Title: The Gallery
+- Main Heading: Real Work for Real People.
+- Subheading: A look at the digital ecosystems we’ve built for brands with a pulse.
+
+### Projects:
+- Vanguard Logistics: Industrial & Gritty. Tracking that actually works on a phone in a warehouse.
+- Nexus FinTech: Mid-Century Modern. Making complex data feel as simple as a vinyl record.
+- Aether Architecture: Clean & Spacious. Letting the blueprints do the talking.
+- Titan Energy: Bold & Reliable. A technical site that feels as sturdy as a steel beam.
+
+## 5. PHILOSOPHY (THE MINDSET)
+- Main Heading: Honest Tech.
+- Story: RezTek Digital started because we were tired of the "disruptive" tech bros. We prefer the "reliable" approach. We treat web design like a craft—like woodworking or fixing up a classic car. We use modern tools to build things that feel timeless.
+- We’re a remote-first crew of digital nomads who value a handshake (even over Zoom) and a job well done. We don’t hide behind bots; we’re just real people building better tools for the bold.
+- No Bloat: If you don't need it, we won't build it.
+- Performance is Politeness: A slow site is rude to your customers. We make sure yours is lightning fast.
+
+## 6. THE JOURNAL (EDITORIAL)
+- Insight 1: The Case for "Quiet" Design: Why the loudest websites are usually the most annoying.
+- Insight 2: Sustainable Code: Building digital tools that don't end up in the "e-waste" pile next year.
+
+## 7. CONTACT (GET IN TOUCH)
+- Heading: Let’s Talk Shop.
+- Subheading: Ready to build something that lasts? Drop us a line. We’re usually around, unless we’re off the grid for a weekend.
+- Contact Info: hello@reztek.digital | From the Road (Remote-First)
+- Form Button: [Send the Message]
+
+## 8. FOOTER
+- Tagline: Engineering the digital frontier, one pixel at a time.
+- Links: Our Work • The Mindset • Care Plans • Privacy
+- Copyright: © 2026 RezTek Digital. Stay True.
